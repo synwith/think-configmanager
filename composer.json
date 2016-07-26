@@ -9,10 +9,13 @@
     ],
     "license": "Apache-2.0",
     "require": {},
-     "autoload": {
+    "autoload": {
         "psr-4": {
             "think\\config\\": "src"
-        }
+        },
+        "files": [
+            "src/ConfigIndex.php"
+        ]
     },
     "extra": {
         "class": "think\\config\\ConfigManager"
