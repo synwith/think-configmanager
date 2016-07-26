@@ -1,0 +1,12 @@
+{
+    "name": "synwith/think-configmanager",
+    "description": "ThinkPHP config.h manager",
+    "authors": [
+        {
+            "name": "Nil Lu",
+            "email": "1351231599@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
