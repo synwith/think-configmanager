@@ -202,12 +202,6 @@ public function showInfo($data,$tag='',$info='')
 	}
 }
 
-}
-
 
 ?>
-
-
-
-
 
