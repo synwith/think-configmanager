@@ -1,0 +1,24 @@
+{
+    "name": "synwith/think-configmanager",
+    "description": "ThinkPHP config.h manager",
+    "authors": [
+        {
+            "name": "Nil Lu",
+            "email": "1351231599@qq.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "think\\config\\": "src"
+        },
+        "files": [
+            "src/ConfigIndex.php"
+        ]
+    },
+    "extra": {
+        "class": "think\\config\\ConfigManager"
+    },
+    "minimum-stability": "dev"
+}
